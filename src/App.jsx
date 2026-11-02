@@ -518,7 +518,7 @@ export default function App() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
             {[
-              { num: "01", title: "OPEN CAMERA", desc: "Click START SCAN and grant camera access permissions securely in browser." },
+              { num: "01", title: "OPEN CAMERA", desc: "Click START SKIN ANALYSIS and grant camera access permissions securely in browser." },
               { num: "02", title: "POSITION FACE", desc: "Sit comfortably with good face lighting so camera with facial landmarks are clearly aligned." },
               { num: "03", title: "START SKIN ANALYSIS", desc: "Click »START SKIN ANALYSIS« and let camera actively capture your mesh landmarks." },
               { num: "04", title: "VIEW RESULTS", desc: "Hold steady as scan computes to render your 3 biomarker tiles." }
